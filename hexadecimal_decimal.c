@@ -6,6 +6,6 @@ int main(){
     scanf("%x",&number);
     
     printf("The decimal equivalent is : %d",number);
-    getch();
+    return 0;
 
 }

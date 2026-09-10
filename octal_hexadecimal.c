@@ -5,6 +5,6 @@ int main(){
     scanf("%o",&number);
     
     printf("The hexadecimal equivalent is : %X",number);
-    getch();
+    return 0;
 
 }
