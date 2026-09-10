@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<ctype.h>b
 int main(){
 
     char lower,upper;
