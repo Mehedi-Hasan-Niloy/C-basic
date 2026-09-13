@@ -7,4 +7,5 @@ int main(){
 
     printf("The lowercase letter : %c",upper+32);
     //a=97
+    return 0;
 }
