@@ -6,4 +6,5 @@ int main(){
     character = getchar();
     printf("You entered : ");
     putchar(character);
+    return 0;
 }

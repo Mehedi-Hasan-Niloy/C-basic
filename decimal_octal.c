@@ -5,6 +5,5 @@ int main(){
     printf("Enter any decimal number : ");
     scanf("%d",&number);
     printf("The octal equivalent is : %o",number);
-    getch();
-
+    return 0;
 }
